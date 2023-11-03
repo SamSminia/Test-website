@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3990 1166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(3.30364e-17,-0.539525,1.03904,6.3623e-17,0,1165.37)">
+        <g>
+            <rect x="0" y="0" width="2160" height="3840" style="fill:none;"/>
+            <g transform="matrix(0.917843,-7.4065e-33,-1.93843e-32,0.823411,88.7532,-34.1632)">
+                <g transform="matrix(9.22171e-17,0.871688,-1.50602,5.33755e-17,10351.5,-19911.6)">
+                    <circle cx="23723.2" cy="6156.31" r="350.441" style="fill:rgb(229,244,254);fill-opacity:0.7;"/>
+                </g>
+                <g transform="matrix(0.764858,-2.70349e-33,-2.83576e-33,0.442702,196.304,-84.9468)">
+                    <g transform="matrix(6.53867e-17,1.06785,-1.06785,6.53867e-17,8016.28,-19254.5)">
+                        <path d="M20195.5,6064C20099.7,5968.26 19969.9,5914.48 19834.5,5914.48C19552.7,5914.48 19324,6143.23 19324,6425C19324,6706.76 19552.7,6935.52 19834.5,6935.52C20116.4,6935.52 20345,6706.95 20345,6425L20156,6425C20156,6602.59 20012.1,6746.55 19834.5,6746.55C19657,6746.55 19512.9,6602.47 19512.9,6425C19512.9,6247.53 19657,6103.44 19834.5,6103.44C19919.8,6103.44 20001.6,6137.32 20061.9,6197.62L20195.5,6064Z" style="fill:rgb(9,102,168);"/>
+                        <g>
+                            <clipPath id="_clip1">
+                                <path d="M20195.5,6064C20099.7,5968.26 19969.9,5914.48 19834.5,5914.48C19552.7,5914.48 19324,6143.23 19324,6425C19324,6706.76 19552.7,6935.52 19834.5,6935.52C20116.4,6935.52 20345,6706.95 20345,6425L20156,6425C20156,6602.59 20012.1,6746.55 19834.5,6746.55C19657,6746.55 19512.9,6602.47 19512.9,6425C19512.9,6247.53 19657,6103.44 19834.5,6103.44C19919.8,6103.44 20001.6,6137.32 20061.9,6197.62L20195.5,6064Z"/>
+                            </clipPath>
+                            <g clip-path="url(#_clip1)">
+                                <path d="M20195.5,6064C20099.7,5968.26 19969.9,5914.48 19834.5,5914.48C19552.7,5914.48 19342.4,5986.21 19324,6425C19318.6,6551.57 19510.3,6541.94 19512.9,6425C19517.1,6240.92 19657,6103.44 19834.5,6103.44C19919.8,6103.44 20001.6,6137.32 20061.9,6197.62L20195.5,6064Z" style="fill:rgb(41,157,244);"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(7.17495e-17,1.17176,-1.17176,7.17495e-17,8583.26,-21416.1)">
+                        <circle cx="19920.4" cy="6339.1" r="85.9" style="fill:rgb(41,157,244);"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(2.8685e-15,24.325,-46.8462,1.48947e-15,48057.3,-9489.37)">
+                <g>
+                    <g transform="matrix(1,0,0,1,430.075,1007.46)">
+                        <text x="0px" y="0px" style="font-family:'Montserrat-Bold', 'Montserrat';font-weight:700;font-size:12px;fill:white;">Graﬁsc</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,474.451,1007.46)">
+                        <text x="0px" y="0px" style="font-family:'Montserrat-Bold', 'Montserrat';font-weight:700;font-size:12px;fill:white;">h Gemak</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,530.995,1007.46)">
+                    <text x="0px" y="0px" style="font-family:'Montserrat-Bold', 'Montserrat';font-weight:700;font-size:12px;fill:rgb(41,157,244);">.</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

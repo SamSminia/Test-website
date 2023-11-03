@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,0,-7691.22)">
+        <g id="Artboard3" transform="matrix(0.938696,0,0,1.2144,2194.06,-1541.06)">
+            <rect x="-2337.35" y="7602.35" width="1150.53" height="889.33" style="fill:none;"/>
+            <g transform="matrix(2.51843e-16,-3.17917,1.53466,7.26367e-17,-2883.59,12174.4)">
+                <g transform="matrix(2.52806e-17,1.10649,-0.412864,6.77527e-17,4688.8,-1990.87)">
+                    <path d="M2698.26,8060.23C2698.26,8052.13 2691.68,8045.55 2683.58,8045.55L2235.88,8045.55C2227.78,8045.55 2221.2,8052.13 2221.2,8060.23L2221.2,8326.58C2221.2,8334.68 2227.78,8341.26 2235.88,8341.26L2683.58,8341.26C2691.68,8341.26 2698.26,8334.68 2698.26,8326.58L2698.26,8060.23Z" style="fill:rgb(41,157,244);fill-opacity:0.09;stroke:rgb(13,34,55);stroke-width:6.27px;"/>
+                </g>
+                <g transform="matrix(1.9555e-17,0.855887,-0.0259469,4.258e-18,1445.86,-1374.46)">
+                    <path d="M2698.26,8060.23C2698.26,8052.13 2697.73,8045.55 2697.07,8045.55L2222.39,8045.55C2221.74,8045.55 2221.2,8052.13 2221.2,8060.23L2221.2,8326.58C2221.2,8334.68 2221.74,8341.26 2222.39,8341.26L2697.07,8341.26C2697.73,8341.26 2698.26,8334.68 2698.26,8326.58L2698.26,8060.23Z" style="fill:none;stroke:rgb(13,34,55);stroke-width:11.43px;"/>
+                </g>
+                <g transform="matrix(1.96891e-17,0.861754,-0.412864,6.77527e-17,4705.79,-1367.87)">
+                    <g id="top">
+                        <rect x="2281.28" y="8183.76" width="324.675" height="21.577" style="fill:rgb(41,157,244);"/>
+                    </g>
+                </g>
+                <g id="middle">
+                    <g transform="matrix(7.77337e-18,0.340226,-0.412864,6.77527e-17,4689.27,-253.832)">
+                        <rect x="2281.28" y="8183.76" width="324.675" height="21.577" style="fill:rgb(13,34,55);"/>
+                    </g>
+                    <g transform="matrix(7.77337e-18,0.340226,-0.412864,6.77527e-17,4689.27,52.647)">
+                        <rect x="2281.28" y="8183.76" width="324.675" height="21.577" style="fill:rgb(41,157,244);"/>
+                    </g>
+                    <g transform="matrix(1.0069e-17,0.440699,-0.412864,6.77527e-17,4689.27,-346.111)">
+                        <rect x="2281.28" y="8183.76" width="324.675" height="21.577" style="fill:rgb(13,34,55);"/>
+                    </g>
+                </g>
+                <g id="bottom">
+                    <g transform="matrix(1.16066e-17,0.508,-0.412864,6.77527e-17,4672.14,-651.064)">
+                        <rect x="2281.28" y="8183.76" width="324.675" height="21.577" style="fill:rgb(41,157,244);"/>
+                    </g>
+                    <g transform="matrix(1.16066e-17,0.508,-0.412864,6.77527e-17,4672.14,-462.312)">
+                        <rect x="2281.28" y="8183.76" width="324.675" height="21.577" style="fill:rgb(13,34,55);"/>
+                    </g>
+                    <g transform="matrix(5.34348e-18,0.233874,-0.412864,6.77527e-17,4672.14,344.287)">
+                        <rect x="2281.28" y="8183.76" width="324.675" height="21.577" style="fill:rgb(13,34,55);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,191 @@
+.kolom1{
+    background-image: linear-gradient(to right, #2586d0, #123b64);
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@keyframes FadeUp{
+
+    0% {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 100%;
+    }
+
+}
+
+.tekst-header,
+.buttons-header{
+    animation: FadeUp 1s ease;
+}
+
+.diensten-header{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 2%;
+}
+.buttons-header{
+    margin-top: 2%;
+}
+
+.button-diensten{
+color: white;
+background-color: #299DF4;
+
+}
+
+.button-diensten:hover{
+ background-color: transparent;
+}
+.button-over-ons:hover{
+    background-color: #299DF4;
+}
+
+.button-diensten,
+.button-over-ons
+{
+padding: 10px 25px;
+border: solid #299DF4;
+border-radius: 10px;
+margin: 10px;
+transition: all 0.3s ease-in-out;
+}
+
+/* Header */
+
+/* grafischgemak over ons */
+
+.icon-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* grafischgemak over ons */
+
+
+
+
+/* Diensten */
+
+
+.Diensten-kolom{
+    background-image: url("/Beeld/fotos/achtergronddiensten.png");
+    background-size: cover;
+    background-position: bottom center;
+    height: 40vh;
+    padding: 8% 10% 10% 10%;
+}
+.diensten{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 2%;
+    column-gap: 50px;
+}
+
+.diensten-icoon-box:nth-child(1){
+    transition-delay: 200ms;
+    }
+.diensten-icoon-box:nth-child(2){
+    transition-delay: 500ms;
+    }
+.Diensten-icoon{
+    width: 20%;
+}
+
+.diensten-icoon-box{
+    background-color: white;
+    padding: 3%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px #0d223737;
+   cursor: pointer;
+    
+}
+.diensten-icoon-box:hover{
+    scale: 1.05;
+}
+
+.titel-dienst{
+    font-size: 25px;
+    color: #091d31;
+    margin: 0;
+}
+
+/* Diensten */
+
+
+/* Een website op maat */
+
+
+.contact-button{
+    background-color: #299DF4;
+    padding: 10px 35px;
+    border: solid #299DF4;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+
+}
+.contact-button:hover{
+    background-color: white;
+    color: #091d31;
+}
+.paragraaf-website-op-maat,
+.paragraaf-vormgeving{
+    margin-bottom: 3%;
+}
+.foto-website{
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Een website op maat */
+
+/* grafische vormgeving */
+
+.foto-vormgeving{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* grafische vormgeving */
+
+
+/* mediaquerys */
+@media only screen and (max-width: 768px){
+
+    .Diensten-kolom{
+        height: 85vh;
+    }
+    .diensten{
+        grid-template-columns: 100%;
+    }
+    .diensten-icoon-box:nth-child(1) {
+        margin-bottom: 40px;
+   }
+   .paragraaf-vormgeving,
+   .paragraaf-website-op-maat{
+    margin-bottom: 20px;
+   }
+   .foto-vormgeving{
+    margin-top: 50px;
+   }
+   .foto-website{
+    display: flex;
+    justify-content: left;
+   }
+   .foto-vormgeving{
+    display: none;
+   }
+}
